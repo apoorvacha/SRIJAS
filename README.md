@@ -102,7 +102,7 @@ https://user-images.githubusercontent.com/25223347/135366127-f6b741f2-de85-4d64-
 
 ## :dart: Plan Of Action:
 
-### Phase 1:
+###
 - [ ] Designing the infrastructure for hosting the web application, database and other required services.
 - [ ] Taking Resume, User Email and other basic User Details from the User using a portal.
 - [ ] Design Database to support all phases of development.
@@ -111,24 +111,7 @@ https://user-images.githubusercontent.com/25223347/135366127-f6b741f2-de85-4d64-
 - [ ] Extract knowledge from scraped data.
 - [ ] Match user skillsets with the skillsets extracted from scraped data.
 
-### Phase 2:
-- [ ] Take more advanced filters from the user.
-- [ ] Allow users to choose the threshold of matching of Skills.
-- [ ] Integrate the basic portal with a login service.
-- [ ] Create a system that stores user profiles and can generate insights from it.
-- [ ] Allow users to select previously uploaded resumes.
-- [ ] Added UI to display user skills. 
-- [ ] Added confirmation page when user submitted their details and redirects to home.php.
-- [ ] Created a proper structure for mail alerts that includes job information, its location, type, skills.
 
-### Phase 3:
-- [ ] Develop a dashboard.
-- [ ] UI beautification.
-- [ ] Generate insights from all collected data.
-
-### Phase 4:
-- [ ] Summarize and generate a graph about how the user's resume has progressed.
-- [ ] Allow users to generate insights from how the uploaded resume compares with job descriptions in the market.
 
 ---
 
